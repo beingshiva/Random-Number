@@ -1,3 +1,7 @@
+// In this you did not have any chances to lose the game
+// You get trails till you did not guess the correct number
+// here in this game the only way is to win the game!
+
 import java.net.SocketTimeoutException;
 import java.util.Scanner;
 
