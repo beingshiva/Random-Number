@@ -41,4 +41,4 @@ The Guess the Number Game is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding the Weather App Project, feel free to contact Shiva at beinghiva78@gmail.com. and My Linkedin : https://www.linkedin.com/in/shiva2478/
 
-Stay updated with the Weather App Project!
+Enjoy playing the Guess the Number Game!
